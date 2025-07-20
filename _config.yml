@@ -23,7 +23,7 @@ repository               : "KaytheDee/kaythedee.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "KD_2.HEIC"
+  avatar           : "KD_profile_1.png"
   name             : "Kwame Donkor"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
