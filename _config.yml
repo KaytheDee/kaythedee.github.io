@@ -29,6 +29,7 @@ author:
   # bio              : "PhD Student - University of Washington"
   location         : "Seattle, WA"
   employer         : "University of Washington"
+  employer_url     : https://www.washington.edu/
   uri              : # URL
   email            : "kdonkor@uw.edu" 
   # email            : "kdonkor@uw.edu" 
