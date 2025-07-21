@@ -23,20 +23,20 @@ repository               : "KaytheDee/kaythedee.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "KD_profile_1.png"
-  name             : "Kwame Donkor"
-  pronouns         : # example: "she/her"  
-  bio              : "PhD Student - University of Washington"
+  # avatar           : "KD_profile_1.png"
+  # name             : "Kwame Donkor"
+  pronouns         : # example: "he/him"  
+  # bio              : "PhD Student - University of Washington"
   location         : "Seattle, WA"
   employer         : "University of Washington"
   uri              : # URL
-  # email            : "kdonkor@uw.edu" 
+  email            : "kdonkor@uw.edu" 
   # email            : "kdonkor@uw.edu" 
 
 
   # Academic websites
   # academia         : # URL
-  academia         : "https://www.junelukuyu.com/"
+  # academia         : "https://www.junelukuyu.com/"
   arxiv            : # URL - Update with the correct link to your profile
   # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
