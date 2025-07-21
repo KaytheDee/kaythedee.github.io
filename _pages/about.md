@@ -11,13 +11,24 @@ About Me
 ======
 
 ![Kwame Donkor headshot](/images/KD_UW_photo.jpg){: .align-right width="300px"}
-Kwame Donkor is a third-year Ph.D. student in the Department of Electrical & Computer Engineering at the University of Washington. He is a member of the Interdisciplinary Energy Analytics (IDEAS) Lab, advised by [Dr. June Lukuyu](https://www.junelukuyu.com/).
+<!-- Kwame Donkor is a third-year Ph.D. student in the Department of Electrical & Computer Engineering at the University of Washington. He is a member of the Interdisciplinary Energy Analytics (IDEAS) Lab, advised by [Dr. June Lukuyu](https://www.junelukuyu.com/). -->
+I'm a third-year Ph.D. student in the Department of Electrical & Computer Engineering at the University of Washington. I am a member of the Interdisciplinary Energy Analytics (IDEAS) Lab, and advised by [Dr. June Lukuyu](https://www.junelukuyu.com/).
 
-His research interests include power grid resilience, renewable energy integration, and equitable energy access, particularly in underserved regions. He is passionate about leveraging data-driven approaches and interdisciplinary tools to advance sustainable and inclusive energy systems.
 
-Kwame holds a Bachelor’s degree in Electrical/Electronic Engineering from the Kwame Nkrumah University of Science and Technology (KNUST) in Ghana. Prior to graduate school, he worked in the electrical services and industrial automation sector in Accra, where he led projects focused on renewable energy and off-grid electrification. 
+<!-- His research interests include power grid resilience, renewable energy integration, and equitable energy access, particularly in underserved regions. He is passionate about leveraging data-driven approaches and interdisciplinary tools to advance sustainable and inclusive energy systems. -->
+My research focuses on power grid resilience, renewable energy integration, and equitable energy access—especially in underserved regions. I am passionate about using data-driven approaches and interdisciplinary tools to help advance sustainable and inclusive energy systems.
 
-Outside of research, Kwame enjoys reading, going on walks, spending time with friends, and playing sports such as football, table tennis, and pickleball (a recent favorite!) 😎.
+
+<!-- Kwame holds a Bachelor’s degree in Electrical/Electronic Engineering from the Kwame Nkrumah University of Science and Technology (KNUST) in Ghana. Prior to graduate school, he worked in the electrical services and industrial automation sector in Accra, where he led projects focused on renewable energy and off-grid electrification.  -->
+I earned my Bachelor’s degree in Electrical/Electronic Engineering from the Kwame Nkrumah University of Science and Technology (KNUST) in Ghana. Before grad school, I worked in the electrical services and industrial automation sector in Accra, leading projects centered on renewable energy and off-grid electrification.
+
+
+<!-- Outside of research, Kwame enjoys reading, going on walks, spending time with friends, and playing sports such as football, table tennis, and pickleball (a recent favorite!) 😎. -->
+Outside of research, I enjoy reading, going on walks, spending time with friends, and playing sports like football, table tennis, and pickleball (a recent favourite!) 😎.
+
+
+
+
 
 
 
