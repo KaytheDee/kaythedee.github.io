@@ -1,5 +1,5 @@
 ---
-permalink: /markdown_souq/
+permalink: /markdown_copy/
 title: "Markdown"
 author_profile: true
 redirect_from: 
