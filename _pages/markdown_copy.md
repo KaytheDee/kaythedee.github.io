@@ -24,7 +24,13 @@ redirect_from:
 * Static files (like PDFs): /files/
 * Profile image (can set in _config.yml): images/profile.png
 
-## Tips and hints
+
+
+
+
+
+
+<!-- ## Tips and hints
 
 * Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
 * Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version GitHub built with Jekyll. 
@@ -452,5 +458,5 @@ This allows you to denote <var>variables</var>.
 ***
 **Footnotes**
 
-The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>.
+The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>. -->
 
