@@ -17,10 +17,11 @@ main:
     url: /talks/    
 
   - title: "Awards/Fellowships"
-    url: /teaching/    
+    url: /awards_fellowships/    
 
   - title: "Resume"
-    url: /cv/
+    # url: /cv/
+    url: /files/Kwame Donkor Resume_1.pdf
   
   - title: "Extra-Curricular"
     url: /extra-curricular/
