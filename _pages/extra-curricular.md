@@ -60,10 +60,10 @@ Thanks to UW Riverways Education Partnerships for this amazing opportunity!
 </figure> 
 
 
-
+<!-- 
 
 ## IDEAS Hangouts 
 
-In the IDEAS Lab, it's not all work and no play! 
+In the IDEAS Lab, it's not all work and no play!  -->
 <!-- Game night picture at June's -->
 
