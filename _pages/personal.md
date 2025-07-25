@@ -48,6 +48,8 @@ redirect_from:
 ### 🏅 Favorite Sports Figures
 * 🎾 Rafael Nadal — relentless spirit, unmatched grit, and fellow Spaniard. Vamos! 🇪🇸  
 * ⚽ José Mourinho — The Special One, always.  
+* 🏀 Shai Gilgeous-Alexander (SGA) — M.V.P  
+<!-- * 🏀 Shai Gilgeous-Alexander (SGA) — smooth as butter  -->
 
 ---
 
