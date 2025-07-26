@@ -16,7 +16,14 @@ redirect_from:
 
 
 <!-- ## Research... -->
-<!-- Pics – trip to Ghana, dataset launch 
-IEEE-PES conference, ORCAS conference  -->
+<!-- Pics – trip to Ghana, dataset launch  -->
+<!-- Engagement with utilities -->
 
+<!-- IEEE-PES conference, ORCAS conference  --> 
+
+<!-- 5 minute lightning talk with library research thingy -->
+
+<!-- ECE poster presentation -->
+
+<!-- Nickelsville -->
 

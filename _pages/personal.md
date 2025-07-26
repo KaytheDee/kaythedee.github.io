@@ -7,15 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 
-<!-- ## Page under construction! 💯👷🏾🛠
-
-<p style="text-align: center;">
-  <img src="/images/cute_dog1.gif" alt="Corgi Gif" style="width: 300px; margin-top: 1em;">
-</p> -->
-
-<!-- take a gazillion pictures -->
-
-
 # A Sneak Peek into My World 🌍
 
 ### 🎉 Fun Facts
@@ -23,14 +14,12 @@ redirect_from:
 * ❤️ Favorite childhood memory: Family movie nights  
 * 🐶 Dog lover  
 * 👨🏾‍🍼 Doting uncle of 4 — certified baby whisperer  
-* 🐊 Have petted a crocodile before... Have you? 👀  
-* 😬 Pet peeve: Poor spelling & grammar — sorry, I can’t help it!  
+* 🐊 Petted a crocodile 
 * 🍽️ Favorite food: Red Red (fried plantains and beans) — elite combo! 🇬🇭 
 * 🎭 Favorite actor: Denzel Washington! I mean, who else?!  
-* ✍🏾 In another life, I’d be: A writer  
+* ✍🏾 In another life, I’d be: A Wildlife Photographer 
 * 🙏🏾 Trying to do more of: Prayer & journaling  
 * 📘 Something I want to do in the future: Write a book  
-* 🔁 One thing I do every day: Go on a long reflective walk or read a few pages  
 * 📸 Favorite hobbies: Photography, football, table tennis, and most recently... pickleball  
 * 📺 I spend too much time on: YouTube 😅  
 
