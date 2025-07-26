@@ -11,13 +11,13 @@ redirect_from:
 
 ### 🎉 Fun Facts
 * 🗣️ Languages: English, Twi, Spanish 🇪🇸  
-* ❤️ Favorite childhood memory: Family movie nights  
+* ❤️ Favourite childhood memory: Family movie nights  
 * 🐶 Dog lover  
-* 👨🏾‍🍼 Doting uncle of 4 — certified baby whisperer  
+* 👨🏾‍🍼 Doting uncle of 4 
 * 🐊 Petted a crocodile 
 * 🍽️ Favorite food: Red Red (fried plantains and beans) — elite combo! 🇬🇭 
-* 🎭 Favorite actor: Denzel Washington! I mean, who else?!  
-* ✍🏾 In another life, I’d be: A Wildlife Photographer 
+* 😎 Favorite actor: Denzel Washington! I mean, who else?!  
+* ✍🏾 In another life, I would be: A Wildlife Photographer 📸 
 * 🙏🏾 Trying to do more of: Prayer & journaling  
 * 📘 Something I want to do in the future: Write a book  
 * 📸 Favorite hobbies: Photography, football, table tennis, and most recently... pickleball  
@@ -35,8 +35,9 @@ redirect_from:
 ---
 
 ### 🏅 Favorite Sports Figures
-* 🎾 Rafael Nadal — relentless spirit, unmatched grit, and fellow Spaniard. Vamos! 🇪🇸  
-* ⚽ José Mourinho — The Special One, always.  
+<!-- * 🎾 Rafael Nadal — relentless spirit, unmatched grit, and fellow Spaniard. Vamos! 🇪🇸   -->
+* 🎾 Rafael Nadal — Signature forehand, relentless spirit, and fellow Spaniard. Vamos! 🇪🇸  
+* ⚽ José Mourinho — The Special One, always. 
 * 🏀 Shai Gilgeous-Alexander (SGA) — M.V.P. 
 <!-- * 🏀 Shai Gilgeous-Alexander (SGA) — smooth as butter  -->
 
@@ -108,6 +109,17 @@ Using this section as my photo blog for now. Finally, I have some justification 
 <!-- Kwasi & I - defeated warrior -->
 <!-- When you try & upstage the king 😂 -->
 <!-- Captured traitor warrior 😂 -->
+
+<figure style="width: 560px" class="align-center">
+  <img src="/images/bolga.jpeg" alt="">
+    <figcaption>Tongo Hills, Ghana</figcaption>
+</figure> 
+<!-- Bolga -->
+
+<figure style="width: 560px" class="align-center">
+  <img src="/images/Rafa_footprint.jpeg" alt="">
+    <figcaption>Rafa's Immortalized - RG '25</figcaption>
+</figure> 
 
 
 <!-- Obliteride pic -->
