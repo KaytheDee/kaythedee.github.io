@@ -118,7 +118,7 @@ Using this section as my photo blog for now. Finally, I have some justification 
 
 <figure style="width: 560px" class="align-center">
   <img src="/images/Rafa_footprint.jpeg" alt="">
-    <figcaption>Rafa's Immortalized - RG '25</figcaption>
+    <figcaption>Rafa is Immortalized - RG '25</figcaption>
 </figure> 
 
 
