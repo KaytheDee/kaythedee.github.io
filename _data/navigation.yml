@@ -13,8 +13,8 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "IDEAS Lab"
-    url: /ideas/    
+  # - title: "IDEAS Lab"
+  #   url: /ideas/    
 
   - title: "Awards/Fellowships"
     url: /awards_fellowships/    
