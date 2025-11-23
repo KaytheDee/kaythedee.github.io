@@ -45,7 +45,7 @@ I am affiliated with the eGUIDE (Electricity Growth and Use in Developing Econom
 
 ## Conferences 
 
-#### October 2025
+### October 2025
 I attended the INFORMS Annual Meeting in Atlanta, GA to present on my research work titled Bridging Climate Risk and Grid Resilience for Equitable Energy Transitions in Africa. 
 
 <!-- INFORMS Presentation -->
@@ -80,7 +80,7 @@ In the summer of 2024, Ahana and I served as mentors in the Clean Energy Bridge 
 <!-- Biniyam and Lillian -->
 <figure style="width: 560px" class="align-center">
   <img src="/images/lillian_poster.png" alt="">
-    <figcaption>Lillian at the Poster Session</figcaption>
+    <figcaption>Lillian at the poster session</figcaption>
 </figure> 
 
 

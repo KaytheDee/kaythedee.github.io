@@ -11,10 +11,10 @@ redirect_from:
 
 ### 🎉 Fun Facts
 * 🗣️ Languages: English, Twi, Spanish 🇪🇸  
-* ❤️ Favourite childhood memory: Family movie nights  
+<!-- * ❤️ Favourite childhood memory: Family movie nights   -->
 * 🐶 Dog lover  
 * 👨🏾‍🍼 Doting uncle of 4 
-* 🐊 Petted a crocodile 
+<!-- * 🐊 Petted a crocodile  -->
 * 🍽️ Favorite food: Red Red (fried plantains and beans) — elite combo! 🇬🇭 
 * 😎 Favorite actor: Denzel Washington! I mean, who else?!  
 * ✍🏾 In another life, I would be: A Wildlife Photographer 📸 
