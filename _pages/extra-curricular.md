@@ -14,14 +14,12 @@ In the Winter 2025 quarter, I was privileged to have been appointed team lead of
 
 I worked with 4 super smart students from diverse backgrounds & majors; Marine Biology, Bioengineering, Computer Science & Applied Math! We met weekly throughout the quarter to prepare an interactive lesson plan on drones. 
 
+<!-- Image with my super smart team -->
 <figure style="width: 560px" class="align-center">
   <img src="/images/team_1.jpg" alt="">
     <figcaption>The Dream Team: Noah, Anouk, Madhu, Shrihun, Kwame.</figcaption>
 </figure> 
 
-
-
-<!-- Image with my super smart team -->
 
 We then spent the Spring Break week at the Quileute Tribal School interacting with students from Grade 6 to 8, sparking their wonder and curiosity about the importance of drones and its various applications. 
 
@@ -38,6 +36,7 @@ We then spent the Spring Break week at the Quileute Tribal School interacting wi
 
 We also got to explore the beautiful beaches La Push had to offer! 
 
+<!-- Enjoying the sunset -->
 <figure style="width: 560px" class="align-center">
   <img src="/images/sunset.png" alt="">
     <!-- <figcaption>Magical sunset at James Island - La Push, WA </figcaption> -->
@@ -45,21 +44,15 @@ We also got to explore the beautiful beaches La Push had to offer!
 
 </figure> 
 
-<!-- Enjoying the sunset -->
-
 Thanks to UW Riverways Education Partnerships for this amazing opportunity! 
 
 *Fun fact*: We stayed at the [ONRC](https://www.onrc.washington.edu/) in Forks (30 minutes from La Push). Forks is the rainiest town in the contiguous United States and famously served as the setting for the *Twilight Saga* series!
 
-
 <!-- Bella's truck! -->
-
 <figure style="width: 560px" class="align-center">
   <img src="/images/bella.png" alt="">
     <figcaption>Bella's truck! </figcaption>
 </figure> 
-
-
 
 
 ## Field Trip - Wild Horse Wind Facility

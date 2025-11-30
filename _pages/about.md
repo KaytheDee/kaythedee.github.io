@@ -14,7 +14,7 @@ About Me
 I'm a third-year Ph.D. student in the Department of Electrical & Computer Engineering at the University of Washington and a member of the Interdisciplinary Energy Analytics (IDEAS) Research Lab, advised by [Dr. June Lukuyu](https://www.junelukuyu.com/).
 
 
-My research focuses on power grid resilience, renewable energy integration, and equitable energy access—especially in underserved regions. I am passionate about using data-driven approaches and interdisciplinary analysis to help advance sustainable and inclusive energy systems.
+My research interests include power grid resilience, grid modernization, renewable energy integration, and equitable energy access—particularly in underserved regions. I am passionate about using data-driven approaches and interdisciplinary analysis to help advance sustainable and inclusive energy systems.
 
 
 I earned my Bachelor’s degree in Electrical/Electronic Engineering from the Kwame Nkrumah University of Science and Technology (KNUST) in Ghana. Before grad school, I worked for a major electrical services and industrial automation firm in Accra, leading projects centered on renewable energy and off-grid electrification.

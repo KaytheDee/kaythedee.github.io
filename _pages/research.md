@@ -85,11 +85,11 @@ In the summer of 2024, Ahana and I served as mentors in the Clean Energy Bridge 
 
 
 ## Teaching Experience 
-### `EE 454 Power Systems Analysis - University of Washington, Fall 2025` 
+### EE 454 Power Systems Analysis - University of Washington, Fall 2025 
 As the Teaching Assistant for the *Power Systems Analysis* class, I prepared in-class problem sets, graded assessments, and held office hours to support student learning. I also developed PowerWorld simulation exercises to strengthen students’ understanding of power flow and grid operation, and provided technical guidance on their end-of-quarter PowerWorld modeling projects.
 
 
-### `CHEM 566 Energy, Materials, Devices and Systems - University of Washington, Fall 2024` 
+### CHEM 566 Energy, Materials, Devices and Systems - University of Washington, Fall 2024 
 I served as the TA for this class by guiding students through the Grid Simulation Module lab section. I introduced key concepts in power generation and conversion, including solar panel IV curve characteristics, DC–AC conversion using pulse-width modulation, and basic power system simulation in PowerWorld. 
 
 
