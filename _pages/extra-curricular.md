@@ -17,12 +17,12 @@ I worked with 4 super smart students from diverse backgrounds & majors; Marine B
 <!-- Image with my super smart team -->
 <figure style="width: 560px" class="align-center">
   <img src="/images/grid_dream_team_1.png" alt="">
-    <figcaption>The Dream Team: Noah, Anouk, Madhu, Shrihun, Kwame.</figcaption>
+    <figcaption>The Dream Team: Kwame, Noah, Shrihun, Madhu, Anouk.</figcaption>
 </figure> 
 
 <figure style="width: 560px" class="align-center">
   <img src="/images/grid_dream_team_2.png" alt="">
-    <figcaption>More pictures</figcaption>
+    <figcaption>Good times!</figcaption>
 </figure> 
 
 We then spent the Spring Break week at the Quileute Tribal School interacting with students from Grade 6 to 8, sparking their wonder and curiosity about the importance of drones and its various applications. 
@@ -34,7 +34,7 @@ We then spent the Spring Break week at the Quileute Tribal School interacting wi
 
 <figure style="width: 560px" class="align-center">
   <img src="/images/thank_you_card.png" alt="">
-    <figcaption>Thank you card from students </figcaption>
+    <figcaption>Thank you card from students & teacher ❤️</figcaption>
 </figure> 
 
 
