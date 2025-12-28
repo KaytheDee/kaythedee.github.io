@@ -26,7 +26,7 @@ You can read more about my award on their [website](https://cascadeenergy.com/ne
 I also got the chance to meet other students, researchers, and industry partners in the renewable energy space. 
 
 <figure style="width: 560px, height:auto" class="align-center">
-  <img src="/images/Dr_Reingold.jpg" alt="">
+  <img src="/images/Dr_Reingold.png" alt="">
     <figcaption>With Dr. Dave Reingold - President, RESF </figcaption>
 </figure> 
 <!-- Photo with Dr Reingold -->
