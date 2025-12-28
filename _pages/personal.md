@@ -18,8 +18,8 @@ redirect_from:
 * 🍽️ Favorite food: Red Red (fried plantains and beans) — elite combo! 🇬🇭 
 * 😎 Favorite actor: Denzel Washington! I mean, who else?!  
 * ✍🏾 In another life, I would be: A Wildlife Photographer 📸 
-* 🙏🏾 Trying to do more of: Prayer & journaling  
-* 📘 Something I want to do in the future: Write a book  
+<!-- * 🙏🏾 Trying to do more of: Prayer & journaling   -->
+<!-- * 📘 Something I want to do in the future: Write a book   -->
 * 📸 Favorite hobbies: Photography, football, table tennis, and most recently... pickleball  
 * 📺 I spend too much time on: YouTube 😅  
 
