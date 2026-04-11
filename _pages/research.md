@@ -74,13 +74,27 @@ I had the opportunity to attend the 2024 IEEE-PES General Meeting right here in 
 
 
 ## Mentorship 
-In the summer of 2024, Ahana and I served as mentors in the Clean Energy Bridge to Research program, which promotes clean energy research among UW undergraduates. Over eight weeks, we worked with Lillian and Biniyam, both Computer Science majors, on two projects: analyzing mini-grid customer payment patterns in Western Uganda and examining inequities in access to heating and cooling infrastructure across Seattle.
 
+### Clean Energy Bridge to Research, Summer '24 
+
+In the summer of 2024, Ahana and I served as mentors in the Clean Energy Bridge to Research program, which promotes clean energy research among UW undergraduates. Over eight weeks, we worked with Lillian and Biniyam, both Computer Science majors, on two projects: analyzing mini-grid customer payment patterns in Western Uganda and examining inequities in access to heating and cooling infrastructure across Seattle.
 
 <!-- Biniyam and Lillian -->
 <figure style="width: 560px" class="align-center">
   <img src="/images/lillian_poster.png" alt="">
     <figcaption>Lillian at the poster session</figcaption>
+</figure> 
+
+
+### Faculty Mentor, Winter & Spring '26 
+### Undergraduate Capstone Project, Winter & Spring '26 
+
+Mentoring an undergraduate Capstone project team working on battery energy storage strategies for the University of Washington's campus electrical distribution system. The project, developed in collaboration with GE Vernova, explores how storage can help shift electricity use during peak demand and reduce grid congestion. Simulation and analysis are carried out using OpenDSS and HomerGrid. I hold weekly meetings with the team to support their progress and provide technical guidance. 
+
+<!-- Biniyam and Lillian -->
+<figure style="width: 560px" class="align-center">
+  <img src="/images/GE.jpg" alt="">
+    <figcaption>GE Vernova Office Tour with the team</figcaption>
 </figure> 
 
 
