@@ -88,12 +88,12 @@ In the summer of 2024, Ahana and I served as mentors in the Clean Energy Bridge 
 
 ### Undergraduate Capstone Project, Winter & Spring '26 
 
-I am currently serving as the faculy mentor for an undergraduate capstone project team that is working on battery energy storage strategies for the University of Washington's campus electrical distribution system. The project, developed in collaboration with GE Vernova, explores how storage can help shift electricity use during peak demand and reduce grid congestion. Simulation and analysis are carried out using OpenDSS and HomerGrid. I hold weekly meetings with the team to support their progress and provide technical guidance. 
+I am currently serving as the faculty mentor for an undergraduate capstone project team that is working on battery energy storage strategies for the University of Washington's campus electrical distribution system. The project, developed in collaboration with GE Vernova, explores how storage can help shift electricity use during peak demand and reduce grid congestion. Simulation and analysis are carried out using OpenDSS and HomerGrid. I hold weekly meetings with the team to support their progress and provide technical guidance. 
 
 <!-- Biniyam and Lillian -->
 <figure style="width: 560px" class="align-center">
   <img src="/images/GE.jpg" alt="">
-    <figcaption>GE Vernova Office Tour with the team</figcaption>
+    <figcaption>GE Vernova Office Visit with the team</figcaption>
 </figure> 
 
 
