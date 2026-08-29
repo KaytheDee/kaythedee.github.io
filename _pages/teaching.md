@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
+
 <!--
 This page is intentionally left blank for now.
 Add teaching content here later.
