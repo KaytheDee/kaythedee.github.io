@@ -78,10 +78,16 @@ I had the opportunity to attend the 2024 IEEE-PES General Meeting right here in 
 
 I served as the faculty mentor for an undergraduate capstone project team that worked on battery energy storage strategies for the University of Washington's campus electrical distribution system. The project, developed in collaboration with GE Vernova, explored how storage can help shift electricity use during peak demand and reduce grid congestion. Simulation and analysis were carried out using OpenDSS and HomerGrid. I had weekly meetings with the team to support their progress and provide technical guidance. 
 
-<!-- Biniyam and Lillian -->
+<!--  -->
 <figure style="width: 560px" class="align-center">
   <img src="/images/GE.jpg" alt="">
     <figcaption>GE Vernova Office Visit with the team</figcaption>
+</figure> 
+
+<!--  -->
+<figure style="width: 560px" class="align-center">
+  <img src="/images/mentees_poster.jpeg" alt="">
+    <figcaption>With the students at the ENGINE 2026 Showcase</figcaption>
 </figure> 
 
 ### Clean Energy Bridge to Research, Summer '24 
