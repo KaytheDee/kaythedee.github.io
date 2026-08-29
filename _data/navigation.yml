@@ -13,15 +13,13 @@ main:
   - title: "Research"
     url: /research/
 
-  # - title: "IDEAS Lab"
-  #   url: /ideas/    
+  # - title: "Teaching"
+  #   url: /teaching/ 
 
-  - title: "Awards/Fellowships"
-    url: /awards_fellowships/    
+  - title: "Teaching"
+    url: /teaching_new/    
 
   - title: "Resume"
-    # url: /cv/
-    # url: /files/Kwame_Donkor.pdf
     url: /files/Kwame_Donkor_Resume_Rev1.pdf
   
   - title: "Extra-Curricular"
