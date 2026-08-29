@@ -113,8 +113,8 @@ In the summer of 2024, Ahana and I served as mentors in the Clean Energy Bridge 
 
 ### EE 454 Power Systems Analysis — University of Washington, Fall 2026 (Teaching Assistant)
 
-I will serve as a teaching assistant for EE 454 during the Fall 2026 quarter, supporting instruction in power-system modeling and analysis.
-Instructor: Dr. Daniel Kirschen
+I will serve as a teaching assistant for EE 454 during the Fall 2026 quarter, supporting class instruction, project work and holding office hours.
+Instructor: Dr. Daniel Kirschen 
 
 
 ### EE 454 Power Systems Analysis — University of Washington, Fall 2025 (Teaching Assistant)
