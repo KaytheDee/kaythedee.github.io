@@ -69,6 +69,11 @@ I had the opportunity to attend the 2024 IEEE-PES General Meeting right here in 
 
 ## Mentorship 
 
+### Informal Undergraduate Mentorship, Summer '26
+
+I provided weekly mentorship to an undergraduate ECE student interested in pursuing a career in power systems. Our meetings focused on building foundational knowledge of power-system concepts, discussing relevant learning materials, and addressing technical and conceptual questions as they arose. 
+
+
 ### Undergraduate Capstone Project, Winter & Spring '26 
 
 I served as the faculty mentor for an undergraduate capstone project team that worked on battery energy storage strategies for the University of Washington's campus electrical distribution system. The project, developed in collaboration with GE Vernova, explored how storage can help shift electricity use during peak demand and reduce grid congestion. Simulation and analysis were carried out using OpenDSS and HomerGrid. I had weekly meetings with the team to support their progress and provide technical guidance. 
