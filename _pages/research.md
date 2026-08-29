@@ -62,10 +62,9 @@ I had the opportunity to attend the 2024 IEEE-PES General Meeting right here in 
 
 <!-- IEEE-PES Presentation -->
 <figure style="width: 560px" class="align-center">
-  <img src="/images/ieee_pes_resized.jpg" alt="">
+  <img src="/images/Untitled design.png" alt="">
     <figcaption>IEEE-PES General Meeting, 2024</figcaption>
 </figure> 
-
 
 ## Mentorship 
 
