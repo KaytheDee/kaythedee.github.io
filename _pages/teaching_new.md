@@ -1,5 +1,5 @@
 ---
-permalink: /extra-curricular/
+permalink: /teaching_new/
 title: ""
 author_profile: true
 redirect_from: 
@@ -7,73 +7,21 @@ redirect_from:
   - /markdown.html
 ---
 
-## STEM Alternative Spring Break (ASB) Program 
+## Teaching Experience 
 
-In the Winter 2025 quarter, I was privileged to have been appointed team lead of a NASA-funded STEM
-[Alternative Spring Break Program](https://cele.uw.edu/students/opportunities/riverways/stem-asb/) at the Quileute Tribal School in La Push, WA. 
+### EE 454 Power Systems Analysis — University of Washington, Fall 2026 (Teaching Assistant)
 
-I worked with 4 super smart students from diverse backgrounds & majors; Marine Biology, Bioengineering, Computer Science & Applied Math! We met weekly throughout the quarter to prepare an interactive lesson plan on drones. 
-
-<!-- Image with my super smart team -->
-<figure style="width: 560px" class="align-center">
-  <img src="/images/grid_dream_team_1.png" alt="">
-    <figcaption>The Dream Team: Kwame, Noah, Shrihun, Madhu, Anouk.</figcaption>
-</figure> 
-
-<figure style="width: 560px" class="align-center">
-  <img src="/images/grid_dream_team_2.png" alt="">
-    <figcaption>Good times!</figcaption>
-</figure> 
-
-We then spent the Spring Break week at the Quileute Tribal School interacting with students from Grade 6 to 8, sparking their wonder and curiosity about the importance of drones and its various applications. 
-
-<figure style="width: 560px" class="align-center">
-  <img src="/images/group_pic.png" alt="">
-    <figcaption>With the 6th grade class</figcaption>
-</figure> 
-
-<figure style="width: 560px" class="align-center">
-  <img src="/images/thank_you_card.png" alt="">
-    <figcaption>Thank you card from students & teacher ❤️</figcaption>
-</figure> 
+I will serve as a teaching assistant for EE 454 during the Fall 2026 quarter, supporting class instruction, project work and holding office hours.
+Instructor: Dr. Daniel Kirschen 
 
 
-We also got to explore the beautiful beaches La Push had to offer! 
+### EE 454 Power Systems Analysis — University of Washington, Fall 2025 (Teaching Assistant)
 
-<!-- Enjoying the sunset -->
-<figure style="width: 560px" class="align-center">
-  <img src="/images/sunset.png" alt="">
-    <!-- <figcaption>Magical sunset at James Island - La Push, WA </figcaption> -->
-    <figcaption>My first sunset watching experience: James Island - La Push, WA </figcaption>
-
-</figure> 
-
-Thanks to UW Riverways Education Partnerships for this amazing opportunity! 
-
-*Fun fact*: We stayed at the [ONRC](https://www.onrc.washington.edu/) in Forks (30 minutes from La Push). Forks is the rainiest town in the contiguous United States and famously served as the setting for the *Twilight Saga* series!
-
-<!-- Bella's truck! -->
-<figure style="width: 560px" class="align-center">
-  <img src="/images/bella.png" alt="">
-    <figcaption>Bella's truck! </figcaption>
-</figure> 
+Prepared in-class problem sets, graded assessments, and held office hours to support student learning. Developed PowerWorld simulation exercises to strengthen students’ understanding of power flow and grid operation and provided technical guidance on their end-of-quarter modeling projects.
+Instructor: Dr. June Lukuyu 
 
 
-## Field Trip - Wild Horse Wind Facility
-As part of her Wind Energy class, June took our class on a field trip at the [Wild Horse Wind Facility](https://www.pse.com/en/pages/facilities/wild-horse). 
-It was super fun being this close to a wind turbine for the first time! 
+### CHEM 566 Energy, Materials, Devices and Systems — University of Washington, Fall 2024 (Teaching Assistant)
 
-<!-- Field Trip - Wind Farm -->
-<figure style="width: 560px" class="align-center">
-  <img src="/images/wind_farm.png" alt="">
-    <figcaption>:-)</figcaption>
-</figure> 
-
-
-<!-- 
-
-## IDEAS Hangouts 
-
-In the IDEAS Lab, it's not all work and no play!  -->
-<!-- Game night picture at June's -->
+Guided students through the Grid Simulation Module laboratory section. Introduced key concepts in power generation and conversion, including solar-panel I–V characteristics, DC–AC conversion using pulse-width modulation, and basic power-system simulation in PowerWorld. 
 
