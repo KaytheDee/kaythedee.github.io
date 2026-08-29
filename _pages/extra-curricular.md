@@ -61,7 +61,7 @@ Thanks to UW Riverways Education Partnerships for this amazing opportunity!
 
 ## Field Trip - Wild Horse Wind Facility
 As part of her Wind Energy class, June took our class on a field trip at the [Wild Horse Wind Facility](https://www.pse.com/en/pages/facilities/wild-horse). 
-It was super fun being this close to a wind turbine for the first time! Yay! 
+It was super fun being this close to a wind turbine for the first time! 
 
 <!-- Field Trip - Wind Farm -->
 <figure style="width: 560px" class="align-center">

@@ -16,6 +16,11 @@ redirect_from:
 
 
 
+## First Research Work
+My first research work explored how climate shocks and grid failures interact in ways that can magnify risk for vulnerable communities. The piece highlights why resilience is not just a technical challenge, but also a social and equity issue in energy systems.
+
+Read more: [When Climate Shocks Collide with Grid Failure](https://energyforgrowth.org/article/when-climate-shocks-collide-with-grid-failure/)
+
 ## IDEAS Lab 
 I joined the Interdisciplinary Energy Analytics for Society (IDEAS) Research Lab in September 2023, where I conduct research under the guidance of Dr. June Lukuyu. We explore the intersections of energy systems, data analytics, and societal impact, developing innovative approaches to understand and improve electricity access, reliability, and resilience. 
 Read more about our work [here](https://www.junelukuyu.com/).
