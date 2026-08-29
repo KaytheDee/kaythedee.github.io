@@ -7,7 +7,18 @@ redirect_from:
   - /markdown.html
 ---
 
-## STEM Alternative Spring Break (ASB) Program 
+
+## Volunteering
+
+* **Webmaster and Executive Committee Member** — IEEE Power & Energy Society (PES), Seattle Chapter
+* **Volunteer** — Seattle’s Union Gospel Mission
+* **Volunteer** — UW Engineering Discovery Days
+* **Volunteer** — UW Riverways Education Partnerships
+
+
+## Highlights 
+
+### STEM Alternative Spring Break (ASB) Program 
 
 In the Winter 2025 quarter, I was privileged to have been appointed team lead of a NASA-funded STEM
 [Alternative Spring Break Program](https://cele.uw.edu/students/opportunities/riverways/stem-asb/) at the Quileute Tribal School in La Push, WA. 
@@ -59,7 +70,7 @@ Thanks to UW Riverways Education Partnerships for this amazing opportunity!
 </figure> 
 
 
-## Field Trip - Wild Horse Wind Facility
+### Field Trip - Wild Horse Wind Facility
 As part of her Wind Energy class, June took our class on a field trip at the [Wild Horse Wind Facility](https://www.pse.com/en/pages/facilities/wild-horse). 
 It was super fun being this close to a wind turbine for the first time! 
 
@@ -68,12 +79,3 @@ It was super fun being this close to a wind turbine for the first time!
   <img src="/images/wind_farm.png" alt="">
     <figcaption>:-)</figcaption>
 </figure> 
-
-
-<!-- 
-
-## IDEAS Hangouts 
-
-In the IDEAS Lab, it's not all work and no play!  -->
-<!-- Game night picture at June's -->
-
