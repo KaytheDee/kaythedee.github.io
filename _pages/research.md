@@ -38,7 +38,7 @@ Completed for the *Introduction to Deep Learning Applications* course, this proj
 
 **Collaborators**: Ahana Mukherjee and Eliane Nirere
 
-Explore the project [repository] (https://github.com/amukherjee25/forecasting-electricity-prices)
+Explore the project [repository](https://github.com/amukherjee25/forecasting-electricity-prices)
 
 <!-- ## First Research Work
 My first research work explored how climate shocks and grid failures interact in ways that can magnify risk for vulnerable communities. The piece highlights why resilience is not just a technical challenge, but also a social and equity issue in energy systems.
@@ -113,16 +113,20 @@ In the summer of 2024, Ahana and I served as mentors in the Clean Energy Bridge 
 
 ### EE 454 Power Systems Analysis — University of Washington, Fall 2026
 
-Teaching Assistant | Instructor: Dr. Daniel Kirschen
+Teaching Assistant. 
 
 I will serve as a teaching assistant for EE 454 during the Fall 2026 quarter, supporting instruction in power-system modeling and analysis.
+
+Instructor: Dr. Daniel Kirschen
 
 
 ### EE 454 Power Systems Analysis — University of Washington, Fall 2025
 
-Teaching Assistant | Instructor: Dr. June Lukuyu
+Teaching Assistant. 
 
 Prepared in-class problem sets, graded assessments, and held office hours to support student learning. Developed PowerWorld simulation exercises to strengthen students’ understanding of power flow and grid operation and provided technical guidance on their end-of-quarter modeling projects.
+
+Instructor: Dr. June Lukuyu 
 
 
 ### CHEM 566 Energy, Materials, Devices and Systems — University of Washington, Fall 2024
