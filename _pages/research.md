@@ -8,14 +8,6 @@ redirect_from:
 ---
 
 
-<!-- ## Page under construction! 💯👷🏾🛠
-
-<p style="text-align: center;">
-  <img src="/images/cute_dog1.gif" alt="Corgi Gif" style="width: 300px; margin-top: 1em;">
-</p> -->
-
-
-
 ## IDEAS Lab 
 I joined the Interdisciplinary Energy Analytics for Society (IDEAS) Research Lab in September 2023, where I conduct research under the guidance of Dr. June Lukuyu. We explore the intersections of energy systems, data analytics, and societal impact, developing innovative approaches to understand and improve electricity access, reliability, and resilience. 
 Read more about our work [here](https://www.junelukuyu.com/).
@@ -30,13 +22,15 @@ Read more about our work [here](https://www.junelukuyu.com/).
 ## Research Projects  
 
 ### Spatiotemporal Analysis of Weather Extremes and Power Quality and Reliability in Accra, Ghana 
-This project explored the interactions between extreme weather events and  grid disturbances (outages and poor power quality) in Sub-Saharan Africa, with a focus on Accra. We focused on two years (2022-2023) and utilized high-frequency customer-level voltage and outage sensor data. We also investigated how these interactions differed across neighborhoods with varying levels of climate vulnerability. 
+This project examined how extreme weather affects power outages and voltage quality in Accra, Ghana. Using two years (2022–2023) of high-frequency, customer-level grid measurements and weather data, we characterized the spatial and temporal distribution of grid disturbances and investigated how weather-related impacts varied across neighborhoods with different levels of climate vulnerability. 
 
-Read our blog post on this work here: [When Climate Shocks Collide with Grid Failure](https://energyforgrowth.org/article/when-climate-shocks-collide-with-grid-failure/)
+<!-- This project explored the interactions between extreme weather events and  grid disturbances (outages and poor power quality) in Sub-Saharan Africa, with a focus on Accra. We focused on two years (2022-2023) and utilized high-frequency customer-level voltage and outage sensor data. We also investigated how these interactions differed across neighborhoods with varying levels of climate vulnerability.  -->
+
+Read our blog post: [When Climate Shocks Collide with Grid Failure](https://energyforgrowth.org/article/when-climate-shocks-collide-with-grid-failure/)
 
 
 ### How Much Data Does a GNN-Based Outage Prediction Model Need? 
-This ongoing projects investigates the use of Graph Neural Networks for power outage prediction in low-resource contexts with a focus on distribution networks in SSA. 
+This ongoing project investigates the use of graph neural networks (GNNs) to predict power-outage states on sparsely monitored distribution networks, with a focus on data-constrained settings in Sub-Saharan Africa. 
 
 <!-- ## First Research Work
 My first research work explored how climate shocks and grid failures interact in ways that can magnify risk for vulnerable communities. The piece highlights why resilience is not just a technical challenge, but also a social and equity issue in energy systems.
@@ -47,7 +41,7 @@ Read more: [When Climate Shocks Collide with Grid Failure](https://energyforgrow
 ## Conferences 
 
 ### September 2026 
-I will be attending the Rwanda Climate Science Symposium in Kigali, Rwanda (22nd-23rd Sept) to present my ongoing work on the potential for GNN usage in power outage prediction to enhance grid resilience. 
+I will present my ongoing research on graph neural networks for power-outage prediction and grid resilience at the Rwanda Climate Science Symposium in Kigali, Rwanda, on September 22–23, 2026.
 
 
 ### October 2025
