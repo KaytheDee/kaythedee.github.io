@@ -10,7 +10,7 @@ redirect_from:
 
 ## Volunteering
 
-* **Webmaster and Executive Committee Member** — IEEE Power & Energy Society (PES), [Seattle Chapter](https://ieeepesseattle.org/)
+* Webmaster and Executive Committee Member — IEEE Power & Energy Society (PES), [Seattle Chapter](https://ieeepesseattle.org/)
 <!-- * **Volunteer** — Seattle’s Union Gospel Mission  -->
 * [Seattle’s Union Gospel Mission](https://www.ugm.org/) 
 * [UW Engineering Discovery Days](https://www.engr.washington.edu/about/k12/discovery-days)
