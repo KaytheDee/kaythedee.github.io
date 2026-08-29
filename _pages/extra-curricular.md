@@ -10,10 +10,11 @@ redirect_from:
 
 ## Volunteering
 
-* **Webmaster and Executive Committee Member** — IEEE Power & Energy Society (PES), Seattle Chapter
-* **Volunteer** — Seattle’s Union Gospel Mission
-* **Volunteer** — UW Engineering Discovery Days
-* **Volunteer** — UW Riverways Education Partnerships
+* **Webmaster and Executive Committee Member** — IEEE Power & Energy Society (PES), [Seattle Chapter](https://ieeepesseattle.org/)
+<!-- * **Volunteer** — Seattle’s Union Gospel Mission  -->
+* [Seattle’s Union Gospel Mission](https://www.ugm.org/) 
+* [UW Engineering Discovery Days](https://www.engr.washington.edu/about/k12/discovery-days)
+* [UW Riverways Education Partnerships](https://cele.uw.edu/programs/riverways/) 
 
 
 ## Highlights 
@@ -21,11 +22,9 @@ redirect_from:
 ### STEM Alternative Spring Break (ASB) Program 
 
 In the Winter 2025 quarter, I was privileged to have been appointed team lead of a NASA-funded STEM
-[Alternative Spring Break Program](https://cele.uw.edu/students/opportunities/riverways/stem-asb/) at the Quileute Tribal School in La Push, WA. 
+[Alternative Spring Break Program](https://cele.uw.edu/students/opportunities/riverways/stem-asb/) at the Quileute Tribal School in La Push, WA. I worked with 4 super smart students from diverse backgrounds & majors; Marine Biology, Bioengineering, Computer Science & Applied Math! We met weekly throughout the quarter to prepare an interactive lesson plan on drones. 
 
-I worked with 4 super smart students from diverse backgrounds & majors; Marine Biology, Bioengineering, Computer Science & Applied Math! We met weekly throughout the quarter to prepare an interactive lesson plan on drones. 
-
-<!-- Image with my super smart team -->
+<!-- Image with the team -->
 <figure style="width: 560px" class="align-center">
   <img src="/images/grid_dream_team_1.png" alt="">
     <figcaption>The Dream Team: Kwame, Noah, Shrihun, Madhu, Anouk.</figcaption>
