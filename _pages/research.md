@@ -38,12 +38,7 @@ Completed for the *Introduction to Deep Learning Applications* course, this proj
 
 **Collaborators**: Ahana Mukherjee and Eliane Nirere
 
-Explore the project [repository](https://github.com/amukherjee25/forecasting-electricity-prices)
-
-<!-- ## First Research Work
-My first research work explored how climate shocks and grid failures interact in ways that can magnify risk for vulnerable communities. The piece highlights why resilience is not just a technical challenge, but also a social and equity issue in energy systems.
-
-Read more: [When Climate Shocks Collide with Grid Failure](https://energyforgrowth.org/article/when-climate-shocks-collide-with-grid-failure/) -->
+Explore the project [repository](https://github.com/amukherjee25/forecasting-electricity-prices).
 
 
 ## Conferences 
@@ -60,13 +55,6 @@ I attended the INFORMS Annual Meeting in Atlanta, GA to present on my research w
   <img src="/images/INFORMS_talk.png" alt="">
     <figcaption>INFORMS Conference Presentation </figcaption>
 </figure> 
-<!-- *Figure 2: Italicized caption.* -->
-
-<!-- INFORMS Presentation --> 
-<!-- <figure style="width: 560px" class="align-center">
-<img src="/images/INFORMS_talk.png" alt="">
-<figcaption> With fellow PhD students from UMass Amnhert, Faustina Sarfo and Civian Massa </figcaption>
-</figure>  -->
 
 
 ### July 2024 
@@ -77,7 +65,6 @@ I had the opportunity to attend the 2024 IEEE-PES General Meeting right here in 
   <img src="/images/IEEE_PES.jpg" alt="">
     <figcaption>IEEE-PES General Meeting, 2024</figcaption>
 </figure> 
-<!-- *Figure 2: Italicized caption.* -->
 
 
 ## Mentorship 
