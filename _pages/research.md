@@ -68,7 +68,7 @@ I had the opportunity to attend the 2024 IEEE-PES General Meeting right here in 
 
 ## Mentorship 
 
-### Informal Undergraduate Mentorship, Summer '26
+### Undergraduate Mentorship, Summer '26
 
 I provided weekly mentorship to an undergraduate ECE student interested in pursuing a career in power systems. Our meetings focused on building foundational knowledge of power-system concepts, discussing relevant learning materials, and addressing technical and conceptual questions as they arose. 
 
