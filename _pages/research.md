@@ -32,6 +32,14 @@ Read our blog post: [When Climate Shocks Collide with Grid Failure](https://ener
 ### How Much Data Does a GNN-Based Outage Prediction Model Need? 
 This ongoing project investigates the use of graph neural networks (GNNs) to predict power-outage states on sparsely monitored distribution networks, with a focus on data-constrained settings in Sub-Saharan Africa. 
 
+
+### Evaluating Deep Learning Pipelines for Predicting Electricity Prices in Renewable-Dominated Markets 
+Completed for the *Introduction to Deep Learning Applications* course, this project compared end-to-end and multi-stage deep-learning pipelines for day-ahead and real-time electricity-price forecasting in Spain. Using market data from 2015–2018, we evaluated Transformer and attention-based CNN–BiLSTM models. The end-to-end pipeline reduced MAE and MAPE by approximately 50%, with the Transformer performing best for day-ahead forecasting and the CNN–BiLSTM performing best for real-time forecasting.
+
+**Collaborators**: Ahana Mukherjee and Eliane Nirere
+
+Explore the project [repository] (https://github.com/amukherjee25/forecasting-electricity-prices)
+
 <!-- ## First Research Work
 My first research work explored how climate shocks and grid failures interact in ways that can magnify risk for vulnerable communities. The piece highlights why resilience is not just a technical challenge, but also a social and equity issue in energy systems.
 
@@ -102,12 +110,26 @@ In the summer of 2024, Ahana and I served as mentors in the Clean Energy Bridge 
 
 
 ## Teaching Experience 
-### EE 454 Power Systems Analysis - University of Washington, Fall 2025 
-Prepared in-class problem sets, graded assessments, and held office hours to support student learning. Developed PowerWorld simulation exercises to strengthen students’ understanding of power flow and grid operation, and provided technical guidance on their end-of-quarter PowerWorld modeling projects.
+
+### EE 454 Power Systems Analysis — University of Washington, Fall 2026
+
+Teaching Assistant | Instructor: Dr. Daniel Kirschen
+
+I will serve as a teaching assistant for EE 454 during the Fall 2026 quarter, supporting instruction in power-system modeling and analysis.
 
 
-### CHEM 566 Energy, Materials, Devices and Systems - University of Washington, Fall 2024 
-Guided students through the Grid Simulation Module lab section. I introduced key concepts in power generation and conversion, including solar panel IV curve characteristics, DC–AC conversion using pulse-width modulation, and basic power system simulation in PowerWorld. 
+### EE 454 Power Systems Analysis — University of Washington, Fall 2025
+
+Teaching Assistant | Instructor: Dr. June Lukuyu
+
+Prepared in-class problem sets, graded assessments, and held office hours to support student learning. Developed PowerWorld simulation exercises to strengthen students’ understanding of power flow and grid operation and provided technical guidance on their end-of-quarter modeling projects.
+
+
+### CHEM 566 Energy, Materials, Devices and Systems — University of Washington, Fall 2024
+
+Teaching Assistant
+
+Guided students through the Grid Simulation Module laboratory section. Introduced key concepts in power generation and conversion, including solar-panel I–V characteristics, DC–AC conversion using pulse-width modulation, and basic power-system simulation in PowerWorld. 
 
 
 
