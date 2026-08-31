@@ -75,7 +75,7 @@ I provided weekly mentorship to an undergraduate ECE student interested in pursu
 
 ### Undergraduate Capstone Project, Winter & Spring '26 
 
-I served as the faculty mentor for an undergraduate capstone project team that worked on battery energy storage strategies for the University of Washington's campus electrical distribution system. The project, developed in collaboration with GE Vernova, explored how storage can help shift electricity use during peak demand and reduce grid congestion. Simulation and analysis were carried out using OpenDSS and HomerGrid. I had weekly meetings with the team to support their progress and provide technical guidance. Explore their final poster [here](/files/Final GE Capstone Poster.pdf).
+I served as the faculty mentor for an undergraduate capstone project team that worked on battery energy storage strategies for the University of Washington's campus electrical distribution system. The project, developed in collaboration with GE Vernova, explored how storage can help shift electricity use during peak demand and reduce grid congestion. Simulation and analysis were carried out using OpenDSS and HomerGrid. I had weekly meetings with the team to support their progress and provide technical guidance. The work culminated in a final capstone project report and a [poster](/files/Final GE Capstone Poster.pdf) presentation at the [UW ECE ENGINE Showcase](https://www.ece.uw.edu/news-events/capstone-fair/). 
 
 <figure style="width: 560px" class="align-center">
   <img src="/images/GE.jpg" alt="">
