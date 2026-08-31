@@ -60,7 +60,7 @@ I attended the INFORMS Annual Meeting in Atlanta, GA to present on my research w
 ### July 2024 
 I had the opportunity to attend the 2024 IEEE-PES General Meeting right here in Seattle. After attending a wide range of sessions, I drew inspiration for my research and explored exciting potential directions for future work. It was also an incredible chance to connect with leading experts and fellow researchers, expanding my network and sparking new collaborations.
 
-<!-- IEEE-PES Presentation -->
+<!-- IEEE-PES -->
 <figure style="width: 560px" class="align-center">
   <img src="/images/Untitled design.png" alt="">
     <figcaption>IEEE-PES General Meeting, 2024</figcaption>
@@ -75,15 +75,13 @@ I provided weekly mentorship to an undergraduate ECE student interested in pursu
 
 ### Undergraduate Capstone Project, Winter & Spring '26 
 
-I served as the faculty mentor for an undergraduate capstone project team that worked on battery energy storage strategies for the University of Washington's campus electrical distribution system. The project, developed in collaboration with GE Vernova, explored how storage can help shift electricity use during peak demand and reduce grid congestion. Simulation and analysis were carried out using OpenDSS and HomerGrid. I had weekly meetings with the team to support their progress and provide technical guidance. 
+I served as the faculty mentor for an undergraduate capstone project team that worked on battery energy storage strategies for the University of Washington's campus electrical distribution system. The project, developed in collaboration with GE Vernova, explored how storage can help shift electricity use during peak demand and reduce grid congestion. Simulation and analysis were carried out using OpenDSS and HomerGrid. I had weekly meetings with the team to support their progress and provide technical guidance. Explore their final poster [here](/files/Final GE Capstone Poster.pdf).
 
-<!--  -->
 <figure style="width: 560px" class="align-center">
   <img src="/images/GE.jpg" alt="">
     <figcaption>GE Vernova Office Visit with the team</figcaption>
 </figure> 
 
-<!--  -->
 <figure style="width: 560px" class="align-center">
   <img src="/images/mentees_poster.jpeg" alt="">
     <figcaption>With the students at the ENGINE 2026 Showcase</figcaption>
@@ -93,7 +91,6 @@ I served as the faculty mentor for an undergraduate capstone project team that w
 
 In the summer of 2024, Ahana and I served as mentors in the Clean Energy Bridge to Research program, which promotes clean energy research among UW undergraduates. Over eight weeks, we worked with Lillian and Biniyam, both Computer Science majors, on two projects: analyzing mini-grid customer payment patterns in Western Uganda and examining inequities in access to heating and cooling infrastructure across Seattle.
 
-<!-- Biniyam and Lillian -->
 <figure style="width: 560px" class="align-center">
   <img src="/images/lillian_poster.png" alt="">
     <figcaption>Lillian at the poster session</figcaption>
@@ -115,8 +112,6 @@ You can read more about my award on their [website](https://cascadeenergy.com/ne
   <img src="/images/Cascade.jpeg" alt="">
     <figcaption>L to R: Erik Holman, Angela Prosek (University of Washington Clean Energy Institute), myself and Victoria Sonoda-Casper </figcaption>
 </figure> 
-<!-- *Figure 2: Italicized caption.* -->
-
 
 I also got the chance to meet other students, researchers, and industry partners in the renewable energy space. 
 
