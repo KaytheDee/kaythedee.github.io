@@ -34,11 +34,11 @@ This ongoing project investigates the use of graph neural networks (GNNs) to pre
 
 
 ### Evaluating Deep Learning Pipelines for Predicting Electricity Prices in Renewable-Dominated Markets 
-Completed for the *Introduction to Deep Learning Applications* course, this project compared end-to-end and multi-stage deep-learning pipelines for day-ahead and real-time electricity-price forecasting in Spain. Using market data from 2015–2018, we evaluated Transformer and attention-based CNN–BiLSTM models. The end-to-end pipeline reduced MAE and MAPE by approximately 50%, with the Transformer performing best for day-ahead forecasting and the CNN–BiLSTM performing best for real-time forecasting.
+Completed for the *Introduction to Deep Learning Applications* course, this project compared end-to-end and multi-stage deep-learning pipelines for day-ahead and real-time electricity-price forecasting in Spain. Using market data from 2015–2018, we evaluated Transformer and attention-based CNN–BiLSTM models. The end-to-end pipeline reduced MAE and MAPE by approximately 50%, with the Transformer performing best for day-ahead forecasting and the CNN–BiLSTM performing best for real-time forecasting. Deliverables included a project [paper](/files/Evaluating_Deep_Learning_Pipelines_for_Predicting_Electricity_Prices_in_Renewable_Dominated_Markets.pdf), a [poster](/files/EE513_Poster.pdf) presentation, and a code [repository](https://github.com/amukherjee25/forecasting-electricity-prices). 
+
 
 **Collaborators**: Ahana Mukherjee and Eliane Nirere
 
-Explore the project [repository](https://github.com/amukherjee25/forecasting-electricity-prices).
 
 
 ## Conferences 
