@@ -138,11 +138,11 @@ I am affiliated with the eGUIDE (Electricity Growth and Use in Developing Econom
 <!-- eGUIDE retreat -->
 <figure style="width: 560px" class="align-center">
   <img src="/images/niagara_2.png" alt="">
-    <figcaption>eGUIDE Retreat @ Niagara Falls- September 2024 </figcaption>
+    <figcaption>eGUIDE Retreat @ Niagara Falls - September 2024 </figcaption>
 </figure> 
 
 <!-- Lab Group Picture -->
 <figure style="width: 560px" class="align-center">
   <img src="/images/eGUIDE_coffee_chat_Dr_Antoine.png" alt="">
-    <figcaption>Coffee chat with Dr. Rhonda Antoine </figcaption>
+    <figcaption>Coffee chat with Dr. Rhonda Antoine (Senior Energy Specialist, The World Bank) </figcaption>
 </figure> 
