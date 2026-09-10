@@ -21,7 +21,7 @@ Read more about our work [here](https://www.junelukuyu.com/).
 
 ## Research Projects  
 
-### Spatiotemporal Analysis of Weather Extremes and Power Quality and Reliability in Accra, Ghana 
+### Extreme weather raises outage risk across Accra and heat lowers voltage in vulnerable neighborhoods 
 This project examined how extreme weather affects power outages and voltage quality in Accra, Ghana. Using two years (2022–2023) of high-frequency, customer-level grid measurements and weather data, we characterized the spatial and temporal distribution of grid disturbances and investigated how weather-related impacts varied across neighborhoods with different levels of climate vulnerability. 
 
 <!-- This project explored the interactions between extreme weather events and  grid disturbances (outages and poor power quality) in Sub-Saharan Africa, with a focus on Accra. We focused on two years (2022-2023) and utilized high-frequency customer-level voltage and outage sensor data. We also investigated how these interactions differed across neighborhoods with varying levels of climate vulnerability.  -->
