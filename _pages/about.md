@@ -11,7 +11,7 @@ About Me
 ======
 
 ![Kwame Donkor headshot](/images/KD_UW_photo.jpg){: .align-right width="300px"}
-I'm a third-year Ph.D. student in the Department of Electrical & Computer Engineering at the University of Washington and a member of the Interdisciplinary Energy Analytics (IDEAS) Research Lab, advised by [Dr. June Lukuyu](https://www.junelukuyu.com/).
+I'm a fourth-year Ph.D. student in the Department of Electrical & Computer Engineering at the University of Washington and a member of the Interdisciplinary Energy Analytics (IDEAS) Research Lab, advised by [Dr. June Lukuyu](https://www.junelukuyu.com/).
 
 
 My research interests include power grid resilience, grid modernization, renewable energy integration, and equitable energy access—particularly in underserved regions. I am passionate about using data-driven approaches and interdisciplinary analysis to help advance sustainable and inclusive energy systems.
