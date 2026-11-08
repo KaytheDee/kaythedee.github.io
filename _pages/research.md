@@ -118,6 +118,10 @@ In the summer of 2024, Ahana and I served as mentors in the Clean Energy Bridge 
 
 ## Awards/Fellowships 
 
+### Galloway Fellowship Recipient 
+Received the UW's Dave and Debbie Galloway Term Fellowship (Electrical and Computer Engineering) to support my doctoral research. The fellowship specifically supports innovation in addressing climate change through renewable energy systems. 
+
+
 ### Cascade Energy Scholarship 
 
 In April 2025, I was awarded the Cascade Energy Scholarship through the [Renewable Energy Scholarship Foundation](https://www.resf-pnw.org/).
