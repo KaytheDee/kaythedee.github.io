@@ -41,18 +41,37 @@ Completed for the *Introduction to Deep Learning Applications* course, this proj
 
 
 
-## Conferences 
+## Conferences / Talks 
 
 ### September 2026 
-I will present my ongoing research on graph neural networks for power-outage prediction and grid resilience at the Rwanda Climate Science Symposium in Kigali, Rwanda, on September 22–23, 2026.
+I presented a poster titled “Measuring the Value of Distribution-Level Data for Predicting Climate-Driven Grid Vulnerability” at the Rwanda Climate Science Symposium in Kigali, Rwanda, on September 22–23, 2026. The poster highlighted my ongoing research investigating the potential usage and performance dynamics of graph neural networks to predict power outages and assess grid vulnerability to extreme weather under data scarcity. 
 
+<!-- RCSS Poster Presentation -->
+<figure style="width: 560px" class="align-center">
+  <img src="/images/RCSS_1.jpg" alt="">
+    <figcaption>Rwanda Climate Science Symposium</figcaption>
+</figure> 
+
+<figure style="width: 560px" class="align-center">
+  <img src="/images/RCSS_3.jpg" alt="">
+    <figcaption></figcaption>
+</figure> 
+
+
+### September 2026 
+I was invited to give a talk on life as a PhD student at the Embedded Systems Research Club, CMU-Africa in Kigali and joined Dr. Nathan Williams for a subsequent Q&A panel. 
+
+<figure style="width: 560px" class="align-center">
+  <img src="/images/CMU_1.jpg" alt="">
+    <figcaption></figcaption>
+</figure> 
 
 ### October 2025
 I attended the INFORMS Annual Meeting in Atlanta, GA to present on my research work titled Bridging Climate Risk and Grid Resilience for Equitable Energy Transitions in Africa. 
 
 <!-- INFORMS Presentation -->
 <figure style="width: 560px" class="align-center">
-  <img src="/images/INFORMS_talk.png" alt="">
+  <img src="/images/INFORMS_talk.jpg" alt="">
     <figcaption>INFORMS Conference Presentation </figcaption>
 </figure> 
 
