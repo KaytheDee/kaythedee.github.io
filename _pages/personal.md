@@ -37,7 +37,7 @@ redirect_from:
 ---
 
 ### 🎞️ Highlight Reel
-Using this section as my photo blog for now. Finally, I have some justification for the millions of pictures I take! 😄
+Using this section as my photo blog for now. Finally, I have *some* justification for the millions of pictures I take! 😄
 
 
 <figure style="width: 560px" class="align-center">
@@ -52,7 +52,7 @@ Using this section as my photo blog for now. Finally, I have some justification 
 
 <figure style="width: 560px" class="align-center">
   <img src="/images/Kigali.jpg" alt="">
-    <figcaption>Kigali</figcaption>
+    <figcaption>Kigali 🇷🇼</figcaption>
 </figure> 
 
 <figure style="width: 560px" class="align-center">
