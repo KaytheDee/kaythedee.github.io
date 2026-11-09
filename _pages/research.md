@@ -44,7 +44,7 @@ Completed for the *Introduction to Deep Learning Applications* course, this proj
 ## Conferences / Talks 
 
 ### September 2026 
-I presented a poster titled “Measuring the Value of Distribution-Level Data for Predicting Climate-Driven Grid Vulnerability” at the Rwanda Climate Science Symposium in Kigali, Rwanda, on September 22–23, 2026. The poster highlighted my ongoing research investigating the potential usage and performance dynamics of graph neural networks to predict power outages and assess grid vulnerability to extreme weather under data scarcity. 
+I presented a poster titled “Measuring the Value of Distribution-Level Data for Predicting Climate-Driven Grid Vulnerability” at the Rwanda Climate Science Symposium in Kigali, Rwanda, on September 22–23, 2026. The poster highlighted my ongoing research investigating the potential usage and performance dynamics of graph neural networks in assessing grid vulnerability to extreme weather under data scarcity. 
 
 <!-- RCSS Poster Presentation -->
 <figure style="width: 560px" class="align-center">
@@ -54,7 +54,7 @@ I presented a poster titled “Measuring the Value of Distribution-Level Data fo
 
 <figure style="width: 560px" class="align-center">
   <img src="/images/RCSS_3.jpg" alt="">
-    <figcaption></figcaption>
+    <figcaption>Poster Presentation</figcaption>
 </figure> 
 
 
@@ -66,12 +66,17 @@ I was invited to give a talk on life as a PhD student at the Embedded Systems Re
     <figcaption></figcaption>
 </figure> 
 
+<figure style="width: 560px" class="align-center">
+  <img src="/images/CMU_2.jpg" alt="">
+    <figcaption></figcaption>
+</figure> 
+
 ### October 2025
 I attended the INFORMS Annual Meeting in Atlanta, GA to present on my research work titled Bridging Climate Risk and Grid Resilience for Equitable Energy Transitions in Africa. 
 
 <!-- INFORMS Presentation -->
 <figure style="width: 560px" class="align-center">
-  <img src="/images/INFORMS_talk.jpg" alt="">
+  <img src="/images/INFORMS_talk.png" alt="">
     <figcaption>INFORMS Conference Presentation </figcaption>
 </figure> 
 
@@ -119,7 +124,7 @@ In the summer of 2024, Ahana and I served as mentors in the Clean Energy Bridge 
 ## Awards/Fellowships 
 
 ### Galloway Fellowship Recipient 
-I received the UW's Dave and Debbie Galloway Term Fellowship (Electrical and Computer Engineering) to support my doctoral research. This fellowship supports innovation in addressing climate change through renewable energy systems. 
+I received the Dave and Debbie Galloway Fellowship (through the Electrical and Computer Engineering dept.) to support my doctoral research. This fellowship supports innovation in addressing climate change through renewable energy systems. 
 
 
 ### Cascade Energy Scholarship 
