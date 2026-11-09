@@ -46,6 +46,16 @@ Using this section as my photo blog for now. Finally, I have some justification 
 </figure> 
 
 <figure style="width: 560px" class="align-center">
+  <img src="/images/autumn_leaves.jpg" alt="">
+    <figcaption>🍂, University of Washington</figcaption>
+</figure> 
+
+<figure style="width: 560px" class="align-center">
+  <img src="/images/Kigali.jpg" alt="">
+    <figcaption>Kigali</figcaption>
+</figure> 
+
+<figure style="width: 560px" class="align-center">
   <img src="/images/Qatar_trip.jpg" alt="">
     <figcaption>2022 World Cup, Qatar - truly unforgettable</figcaption>
 </figure> 
